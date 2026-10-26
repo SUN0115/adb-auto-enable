@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-    private static final int WEB_PORT = 9093;
+    private static final int WEB_PORT = 9180;
     private static final String PREFS_NAME = "ADBAutoEnablePrefs";
 
     @Override
